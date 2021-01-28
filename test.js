@@ -28,7 +28,7 @@ var cor;
 
 		console.log('Running cordova-' + cor.platformId + '@' + cor.version);
 		doc.getElementById('deviceready').classList.add('ready');
-		doc.getElementById('MSGREADY').innerText = 'Hey, Device is ready!';
+		doc.getElementById('MSGREADY').innerText = 'Man, Device is ready!';
 	}
 
 function startApp(pdoc,pcor) {
