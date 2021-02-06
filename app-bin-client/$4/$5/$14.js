@@ -1,0 +1,1 @@
+import{$32}from"./$15.js";export class $31{$24(){return new $32().$24()+" from ext lib...";}}

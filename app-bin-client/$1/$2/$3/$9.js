@@ -1,0 +1,1 @@
+import{$31}from"../../../$4/$5/$14.js";import{$30}from"../../../$4/$2/$11.js";export class $25{constructor(){this.$20="";this.$21=null;}get $22(){return this.$20;}$23(){console.log("");this.$21="";}$24(){return "Ready "+this.$22+new $31().$24()+new $30().$24();}}
