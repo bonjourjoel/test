@@ -1,1 +1,0 @@
-import{$25}from"./$9.js";export class $29{$26(){document.getElementById('deviceready').classList.add('ready');}$28(){const $27=new $25().$24();document.getElementById('MSGREADY').innerHTML=$27;document.addEventListener('deviceready',this.$26,false);}}
